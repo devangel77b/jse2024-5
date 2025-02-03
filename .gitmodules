@@ -1,0 +1,9 @@
+[submodule "matta"]
+	path = matta
+	url = git@github.com:devangel77b/225rmatta-interval.git
+[submodule "su"]
+	path = su
+	url = git@github.com:devangel77b/425esu-emptyspace.git
+[submodule "thaker"]
+	path = thaker
+	url = git@github.com:devangel77b/425pthaker-amblyoverlay.git
